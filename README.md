@@ -1,7 +1,7 @@
-# Bulk_Emailing_Script
+# Bulk Emailing Script
 This script is designed to send bulk emails efficiently while incorporating email rotations for optimal deliverability and variation. It allows users to send large batches of emails while rotating through different email templates, subjects, or sender addresses, helping to avoid spam filters and improve engagement. The script automates the process, ensuring that each recipient gets personalized content with minimal effort from the sender.
 
-Key Features:
+<u>Key Features:</u>
 Sender Email and Password Management: The script supports multiple sender accounts. Sender credentials should be stored in an Excel file (.xlsx format) with two columns:
 
 Email: The sender’s email address.
